@@ -92,4 +92,4 @@ jobs:
 
   dependabot_automerge:
     name: Automerge Dependabot PRs
-    uses: dell/common-github-actions/.github/workflows/dependabot-automerge.yml@main
+    uses: dell/common-github-actions/.github/workflows/dependabot-automerge.yml@fix-automerge
