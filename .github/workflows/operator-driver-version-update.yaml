@@ -68,6 +68,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: sidharth30060/csm-operator
+          path: csm-operator
 
       - name: Set Up Go Environment
         uses: actions/setup-go@v5
